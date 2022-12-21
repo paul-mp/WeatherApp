@@ -7,3 +7,5 @@ in order to show your current weather. This application was made to learn how AP
 * Open Weather API 
 * IP-API 
 * Requests/JSON libraries
+* Tkinter GUI
+* geopy API
